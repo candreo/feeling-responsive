@@ -7,11 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me ›
-  style: alert
-permalink: /index.html
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
 widget1:
   title: "About"
   url: '/information/'
