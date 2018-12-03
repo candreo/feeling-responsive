@@ -9,12 +9,12 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "About"
-  url: 'http://phlow.github.io/feeling-responsive/information/'
+  url: '/information/'
   image: widget-1-302x182.jpg
   text: 'The ECAART Conference is held every three years and is the most relevant scientific meeting for professionals working in the     field of accelerator based research.'
 widget2:
   title: "Speakers"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/info/'
   text: 'View the list of invited speakers and lecture topics.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
