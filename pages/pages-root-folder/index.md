@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks</a>
 widget1:
   title: "About"
   url: '/information/'
