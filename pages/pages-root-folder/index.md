@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 callforaction:
   url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  text: Inform me ›
   style: alert
 permalink: /index.html
 widget1:
