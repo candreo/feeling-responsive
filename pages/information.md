@@ -8,6 +8,10 @@ teaser: "The ECAART Conference is held every three years and is the most relevan
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/information/"
+callforaction:
+  url: https://tinyletter.com/feeling-responsive
+  text: Inform me about new updates and features ›
+  style: alert
 ---
 The Conference is organized by the Ruđer Bošković Institute, Zagreb, Croatia (RBI) in cooperation with the International Atomic Energy Agency (IAEA) and Center of Excellence for Advanced Materials and Sensing Devices (CEMS).
 
