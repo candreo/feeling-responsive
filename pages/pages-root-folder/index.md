@@ -7,6 +7,11 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+callforaction:
+  url: https://tinyletter.com/feeling-responsive
+  text: Inform me about new updates and features ›
+  style: alert
+permalink: /index.html
 widget1:
   title: "About"
   url: '/information/'
