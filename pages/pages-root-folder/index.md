@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+{% include alert text='Just a note!' %}
 widget1:
   title: "About"
   url: '/information/'
