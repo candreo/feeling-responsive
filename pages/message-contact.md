@@ -6,7 +6,7 @@ title: "Contact form submitted"
 teaser: "Thank You, we have recived Your message. If required someone will contact You back."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/information/"
+permalink: "/message-contact/"
 callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: Inform me about new updates and features ›
